@@ -1,1 +1,1 @@
-Personal portfolio about my self, including hobbies, educational background, skills, projects, etc.
+Personal portfolio about myself, including hobbies, educational background, skills, projects, etc.
